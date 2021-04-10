@@ -24,6 +24,11 @@ The Face was detected in the image using Haarcascades. The image was cropped in 
 ## Recommendation and Download of Song
 Using the predicted emotion, the program recommends ten songs from the database. The songs are then downloaded in the "Songs" directory. Youtube-dl was used for downloading songs.
 
+To run the program, execute the following command,
+```
+python main.py
+```
+
 ## Contributors
 1. Ritik Gupta
 2. Vishu Garg
